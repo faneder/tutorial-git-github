@@ -24,10 +24,11 @@ create a Github account
 - what is Git
 - why we need Git
 - add and commit a file to history 
+- Github Flow
 - fork this project and create a new branch
 - modify some content and push the new branch to Github
 - code review
-
+- Github pages
 
 ### Info
 
