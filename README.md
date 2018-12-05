@@ -1,6 +1,7 @@
 # Tutorial Git and Github
 
 We'll work through this example for practice.
+* [Demo](https://faneder.github.io/tutorial-git-github/)
 
 ## Getting Started
 
@@ -28,6 +29,8 @@ create a Github account
 - code review
 
 
-### Extract
+### Info
 
 * [Github flow](https://guides.github.com/introduction/flow/)
+* [Github pages](https://pages.github.com/)
+
